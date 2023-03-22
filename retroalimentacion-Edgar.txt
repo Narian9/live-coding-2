@@ -1,0 +1,4 @@
+Me gusto la fomar de trabajo
+
+1. Practicar fetch y el uso de catch
+2. Practicar uso de funciones flecha

@@ -1,0 +1,5 @@
+Algo bueno es destacar el uso del operador terciario
+
+1. Practicar uso de fetch
+2. 
+3.

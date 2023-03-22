@@ -1,0 +1,4 @@
+Me gusto la forma en como trabajas, muy bien.
+1. Practicar uso funciones flecha
+2. Practicar uso de fetch
+3.
